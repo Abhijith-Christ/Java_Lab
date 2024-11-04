@@ -14,3 +14,7 @@ Lab 2 Program 1 :
 Lab 2 Program 2 :
 
   This Java program, ShareTrader, calculates the maximum profit achievable from an array of stock prices using at most two transactions (buy and sell). The program takes daily stock prices as input from the user and uses dynamic programming to compute the best possible profit through two key steps: calculating the maximum profit possible up to each day with the first transaction and then determining the maximum profit achievable from each day onward for a second transaction. Finally, it combines these results to output the maximum profit possible across both transactions. This program is particularly useful for understanding and testing basic stock trading strategies in Java.
+
+Lab 3 Program :
+
+  This Java program implements an employee payroll system that calculates weekly salary, annual earnings, and bonuses for different types of employees: HourlyEmployee, SalariedEmployee, and ExecutiveEmployee. Using inheritance and polymorphism, each employee type has unique calculations—hourly employees' weekly salary is based on hours worked, salaried employees receive a fixed monthly salary, and executive employees earn additional bonuses based on a percentage of their annual salary. The program prompts users for employee details, displays each employee's information, and computes the total payroll. This example highlights object-oriented principles in Java, such as method overriding and class hierarchy.
